@@ -33,5 +33,5 @@ cd value-serp
 composer install
 
 Copy .env and configure
-VALUESERP_KEY=your_actual_valueserp_api_key
+VALUESERP_KEY=9C6F1EBAE04D4CCDB9139A2855E4EF60
 php artisan serve
